@@ -21,10 +21,7 @@ ionic serve
 ```
 
 ### Notas
-Se debe crear una cuenta en: 
-```
-https://firebase.google.com/
-```
+
 Se debe instalar angularfirebase2
 ```
 npm install angularfirebase2 --save
